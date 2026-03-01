@@ -27,7 +27,7 @@ Displays:
 • Location-based weather detection
 
 <p align="center">
-  <img src="screenshots/file0.png" width="700" height="300"/>
+  <img src="screenshots/file0.png" width="700" height="700"/>
 </p>
 
 ---
