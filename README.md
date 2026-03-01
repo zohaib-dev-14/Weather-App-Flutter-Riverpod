@@ -26,6 +26,10 @@ Displays:
 • Next 24-hour forecast preview
 • Location-based weather detection
 
+<p align="center">
+  <img src="screenshots/file0.png" width="700"/>
+</p>
+
 ---
 
 ## 🔍 Search Screen – City-Based Forecast
